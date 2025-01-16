@@ -1,0 +1,34 @@
+# Mon Oct 07 20:50:10 CEST 2013
+# Mastering ArchiMate Colour Scheme
+defaultFillColour_ApplicationCollaboration=\#afffff
+defaultFillColour_ApplicationFunction=\#ffffaf
+defaultFillColour_Meaning=\#e6ffe6
+defaultFillColour_BusinessRole=\#e6ffff
+defaultFillColour_DataObject=\#afffaf
+defaultFillColour_ApplicationComponent=\#afffff
+defaultFillColour_Network=\#7dffff
+defaultFillColour_BusinessService=\#ffffe6
+defaultFillColour_InfrastructureInterface=\#7dffff
+defaultFillColour_Device=\#7dffff
+defaultFillColour_Artifact=\#91ff91
+defaultFillColour_Contract=\#e6ffe6
+defaultFillColour_Product=\#e6ffe6
+defaultFillColour_CommunicationPath=\#7dffff
+defaultFillColour_Value=\#e6ffe6
+defaultFillColour_Node=\#7dffff
+defaultFillColour_ApplicationService=\#ffffaf
+defaultFillColour_BusinessFunction=\#ffffe6
+defaultFillColour_BusinessEvent=\#ffffe6
+defaultFillColour_Representation=\#e6ffe6
+defaultFillColour_InfrastructureFunction=\#ffff82
+defaultFillColour_Location=\#e6ffff
+defaultFillColour_BusinessInterface=\#e6ffff
+defaultFillColour_BusinessInteraction=\#ffffe6
+defaultFillColour_InfrastructureService=\#ffff82
+defaultFillColour_ApplicationInterface=\#afffff
+defaultFillColour_SystemSoftware=\#7dffff
+defaultFillColour_ApplicationInteraction=\#ffffaf
+defaultFillColour_BusinessProcess=\#ffffe6
+defaultFillColour_BusinessCollaboration=\#e6ffff
+defaultFillColour_BusinessObject=\#e6ffe6
+defaultFillColour_BusinessActor=\#e6ffff
